@@ -10,4 +10,4 @@ Features Include:
 
 The project is completely free. Please refrain from selling it.
 Credits:
-- Ghosthome (Alias Someoneshark)
+- Ghosthome (AKA Someoneshark)
