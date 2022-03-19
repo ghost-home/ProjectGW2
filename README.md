@@ -4,11 +4,15 @@ A Project I am working on for the MMORPG game Guild Wars 2. This is completely f
 - External Console Based.
 
 Features Include:
-- Teleportation. (Only custom Co-Ordinates right now)
+- Teleportation.
+- - Custom Co Ordinates.
+- - Saved Position.
+- - Load Position.
+- - Read Current Co Ordinates.
 - Walkspeed Modifying. (Max: 35)
 - Working on more soon.
 
 The project is completely free. Please refrain from selling it.
 
 Credits:
-- Ghosthome (AKA Someoneshark)
+- Fallen Ghost (ghosthome)
