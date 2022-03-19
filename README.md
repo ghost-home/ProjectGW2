@@ -10,7 +10,6 @@ Features Include:
 - - Load Position.
 - - Read Current Co Ordinates.
 - Walkspeed Modifying. (Max: 35)
-- MORE? maybe.
 
 Credits:
 - Fallen Ghost (ghosthome)
