@@ -12,7 +12,5 @@ Features Include:
 - Walkspeed Modifying. (Max: 35)
 - Working on more soon.
 
-The project is completely free. Please refrain from selling it.
-
 Credits:
 - Fallen Ghost (ghosthome)
