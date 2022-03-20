@@ -11,7 +11,7 @@ Features Include:
 - - Read Current Co Ordinates.
 - Walkspeed Modifying. (Max: 35)
 
-Check #releases for the latest version of the program.
+Check #Releases for the latest version of the program.
 
 Credits:
 - Fallen Ghost (ghosthome)
