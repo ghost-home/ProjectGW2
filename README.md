@@ -5,7 +5,7 @@ A Project I am working on for the MMORPG game Guild Wars 2. This is completely f
 
 Features Include:
 - Teleportation.
-- - Custom Co Ordinates.
+- - Teleport Custom Co Ordinates.
 - - Saved Position.
 - - Load Position.
 - - Read Current Co Ordinates.
