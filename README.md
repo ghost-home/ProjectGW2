@@ -11,6 +11,9 @@ Features Include:
 - - Read Current Co Ordinates.
 - Walkspeed Modifying. (Max: 35)
 
+To Do:
+- Read from File support. (Teleportation)
+
 Check #Releases for the latest version of the program.
 
 Credits:
