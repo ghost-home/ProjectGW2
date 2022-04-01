@@ -12,7 +12,7 @@ Features Include:
 - Walkspeed Modifying. (Max: 35)
 
 To Do:
-- Read from File support. (Teleportation)
+- Support Read from File. (Teleportation)
 
 Check #Releases for the latest version of the program.
 
