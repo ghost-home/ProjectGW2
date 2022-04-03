@@ -11,7 +11,7 @@ Features Include:
 - - Read Current Co Ordinates.
 - Walkspeed Modifying. (Max: 35)
 
-To Do:
+Coming Soon:
 - Support > Read from File. (Teleportation)
 - Zoom/FOV Modifier.
 - Botting, Auto Farming.
