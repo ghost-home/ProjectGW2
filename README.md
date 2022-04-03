@@ -13,6 +13,9 @@ Features Include:
 
 To Do:
 - Support > Read from File. (Teleportation)
+- Zoom/FOV Modifier.
+- Botting, Auto Farming.
+- Auto Skills & Auto Targetting.
 
 Check #Releases for the latest version of the program.
 
